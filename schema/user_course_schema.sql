@@ -1,7 +1,9 @@
 DROP TABLE IF EXISTS rosters;
+
+DROP TABLE IF EXISTS class_info;
 DROP TABLE IF EXISTS classes;
 
-DROP TABLE IF EXISTS instructor_information;
+DROP TABLE IF EXISTS instructor_info;
 DROP TABLE IF EXISTS user_credentials;
 DROP TABLE IF EXISTS user_info;
 DROP TABLE IF EXISTS users CASCADE;
