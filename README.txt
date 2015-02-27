@@ -58,7 +58,7 @@ Querying the Database:
       SELECT title, subject, course, section 
 	  FROM classes
 	  INNER JOIN rosters
-	  ON classes.id = rosters.user_id 
+	  ON classes.id = rosters.class_id 
 	  WHERE rosters.user_id = [user id number];
 
 
