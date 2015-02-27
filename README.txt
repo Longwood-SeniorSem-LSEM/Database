@@ -62,6 +62,15 @@ Querying the Database:
 	  WHERE rosters.user_id = [user id number];
 
 
-  3. All courses a student is enrolled in and the instructor for each course.
+  3. Finds the subject, course, section, and instructor's name for each class.
 
-	   
+      SELECT subject, course, section, first_name, last_name
+	  FROM (
+	    SELECT first_name, last_name
+	    FROM user_info
+	    INNER JOIN class_info
+	    ON user_info.user_id = class_info.instructor_id
+	  ) AS instructors
+	  INNER JOIN classes
+	  ON instructors.class_id = classes.id;
+
