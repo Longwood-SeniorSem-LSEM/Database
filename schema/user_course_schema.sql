@@ -40,23 +40,24 @@ CREATE TABLE instructor_information (
 
 CREATE TABLE classes (
 	id               INTEGER        PRIMARY KEY AUTO_INCREMENT, 
-
-	semester         VARCHAR(6)     NOT NULL,
-	year             INTEGER        NOT NULL,
-
 	subject          VARCHAR(5)     NOT NULL,
 	course           INTEGER        NOT NULL,
 	section          INTEGER        NOT NULL,
-
 	title            TEXT           NOT NULL,
-
 	instructor       INTEGER        REFERENCES users(id),
-	class_key        VARCHAR(12)    UNIQUE NOT NULL,
 
-	CONSTRAINT check_year    CHECK (year BETWEEN 2013 AND 10000),
 	CONSTRAINT check_id      CHECK (id BETWEEN 9999 AND 100000),
 	CONSTRAINT check_section CHECK (section > 0),
 	CONSTRAINT check_cn      CHECK (course_number BETWEEN 0 AND 999)
+);
+
+CREATE TABLE class_information (
+	class_id         INTEGER        REFERENCES classes(id),
+	semester         VARCHAR(6)     NOT NULL,
+	year             INTEGER        NOT NULL,
+	class_key        VARCHAR(12)    UNIQUE NOT NULL,
+
+	CONSTRAINT check_year    CHECK (year BETWEEN 2013 AND 10000)
 );
 
 ALTER TABLE classes AUTO_INCREMENT = 50000;
