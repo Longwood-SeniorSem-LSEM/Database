@@ -1,6 +1,6 @@
 SQL Documentation:
-  -   
-  -
+  - W3Schools SQL Tutorials: <http://www.w3schools.com/sql/default.asp>  
+  - MySQL Database Manipulation Docuemntaion: <http://dev.mysql.com/doc/refman/5.7/en/sql-syntax-data-manipulation.html>
   
 Database Tables:
 
