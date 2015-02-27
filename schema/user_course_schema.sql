@@ -33,7 +33,7 @@ CREATE TABLE instructor_info (
 	office           TEXT,
 	phone_number     INTEGER,
 
-	CONSTRAINT validPhoneNumber CHECK (phone_number BETWEEN 999999999 AND 10000000000);
+	CONSTRAINT validPhoneNumber CHECK (phone_number BETWEEN 999999999 AND 10000000000)
 );
 
 -- Class Tables --
