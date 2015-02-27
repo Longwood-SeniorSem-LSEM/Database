@@ -7,9 +7,4 @@ with open('users.csv') as f:
 		print "INSERT INTO user_info (user_id, first_name, last_name) VALUES (%d,'%s','%s');" % (id,name[0],name[1])	
 		id += 1
 
-with open('courses.csv') as f:
-	id = 50000
-	for line in f:
-		items = line.split('|')
-		print "INSERT INTO classes (subject, course, section, title) VALUES ('%s',%s,%s,'%s');" % (items[0],items[1],items[2],items[3])
-		id += 1
+

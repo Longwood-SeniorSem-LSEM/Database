@@ -601,3 +601,23 @@ INSERT INTO user_info (user_id, first_name, last_name) VALUES (100,'Clayton','Fr
 INSERT INTO users (email, account_type) VALUES ('Warren.Fletcher@live.longwood.edu', 'student');
 INSERT INTO user_credentials (user_id, passwd) VALUES (101, 'WarrenFletcherpass');
 INSERT INTO user_info (user_id, first_name, last_name) VALUES (101,'Warren','Fletcher');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - History & Political Science
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Math and Computer Science
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Liberal Studies 
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Undeclared
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Athletic Training
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Honors
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Nursing
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Biology
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Chemistry & Physics
+');
+INSERT INTO classes (subject, course, section, title) VALUES ('LSEM',100,1,'Longwood Seminar - Environmental Science
+');
