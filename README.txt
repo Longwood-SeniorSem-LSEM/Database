@@ -3,13 +3,25 @@ SQL Documentation:
   -
   
 Database Tables:
+
   users:
     id : INTEGER (Primary Key, Auto Incrementing) - User identification number 
+    email : VARCHAR(255) - User's email address
+    account_type : VARCHAR(11) (Must be one of the following => [peer mentor|student|teacher|admin] ) - Specifies user's account type  
+
+  user_credentials:
+    user_id : INTEGER (Foreign Key, References users(id)) - User identification number 
+    passwd : VARCHAR(40) (Must be greater than 8 characters) - User's password
+
+  user_information:
+    user_id : INTEGER (Foreign Key, References users(id)) - User identification number 
     first_name : TEXT (Not Null) - User's first name.
     last_name : TEXT (Not Null) - User's last name.
-    account_type : VARCHAR(11) (Must be one of the following => [peer mentor|student|teacher|admin] ) - Specifies user's account type  
-    email : VARCHAR(255) - User's email address
-    passwd : VARCHAR(40) (Must be greater than 8 characters) - User's password
+
+  instructor_information:
+    user_id : INTEGER (Foreign Key, References users(id)) - User identification number 
+	office : TEXT - Location of instructor's office
+	phone_number : INTEGER - The instructor's phone number
 
   classes:
     id : NUMERIC (Primary Key, Auto Incrementing) - Class identification number
