@@ -1,100 +1,603 @@
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Lee","Whitley","student","non.leo@ligulaAeneangravida.net","IPI60PBD4MQ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Laurel","White","student","Nullam.enim@infelis.com","AXE95TPY5NB");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Oren","Lucas","student","ad.litora.torquent@tristiquepellentesquetellus.edu","VPK94UCH6CQ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Ayanna","Kane","student","dapibus.rutrum.justo@ametdiam.net","ZEG32OYU8QS");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Craig","Lopez","student","urna@Donec.com","BTD15ZTF3EK");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Kelsey","Gilliam","student","mauris.sit@augueeu.ca","GXE97UFQ2OS");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Zachary","Harrington","student","nunc.interdum.feugiat@Nuncacsem.net","IDG30BLG2NM");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Erin","Browning","student","eleifend@ligulaelitpretium.co.uk","HDT93TBK9MY");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Leonard","Higgins","student","iaculis.nec.eleifend@Aenean.ca","IEA06RFK1HK");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Clare","Wall","student","sit.amet@augueacipsum.co.uk","WLE02GQD3QL");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Faith","Kinney","student","montes.nascetur@rutrum.com","XIP41PEY5ES");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Alfonso","Leach","student","Etiam.vestibulum.massa@necanteblandit.org","AOX24CYO8ZV");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Yasir","Serrano","student","eget@arcuNuncmauris.co.uk","WRU50GRO9HV");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Hermione","Sutton","student","nec.mollis.vitae@temporerat.net","YKA58DPY8JQ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Hayes","Rodriguez","student","scelerisque.lorem@Morbi.ca","DZJ32YJB2BI");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Hamish","Avila","student","turpis.Aliquam.adipiscing@atsemmolestie.co.uk","VBM18YPU3TW");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Orlando","Schroeder","student","suscipit@mollislectus.org","RBM58HTL0XA");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Xanthus","Golden","student","sagittis.felis.Donec@turpisvitae.org","RHI09KIC9DH");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Jordan","Ramos","student","accumsan.convallis@apurusDuis.net","NMV78YUV0UN");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Felix","Hudson","student","enim.consequat@ornare.edu","ATU83ZEH9RA");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Walter","Joseph","student","nec@Etiam.com","RLH02GRF6RD");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Nash","Gamble","student","mollis.lectus.pede@mi.edu","IMX41VVJ9YP");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Wing","Manning","student","sit@euarcuMorbi.com","FQL60NBS4EG");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Kasper","Hansen","student","eget@quam.org","VKA05OYL5YJ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Isaiah","Osborne","student","purus.sapien.gravida@tortorIntegeraliquam.ca","XPP88WDF1MV");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Alyssa","Michael","student","tristique.neque@nectempus.ca","RHL31BKA2SJ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Carolyn","Church","student","Integer@tinciduntadipiscingMauris.ca","SSK25FXL4WY");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Felix","Barrera","student","Vivamus@infelisNulla.net","DWY07FUY4NB");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Gavin","Valenzuela","student","Nam.nulla.magna@eudoloregestas.net","KNR41UIS4JR");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Lysandra","Burris","student","magnis@ut.org","WXH95XCO9AY");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Dalton","Berry","student","velit@Nullamscelerisque.ca","WWI91MLP4BH");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Dara","Best","student","ultricies.dignissim.lacus@accumsanlaoreetipsum.org","ECX94KYP2VX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Kibo","Hansen","student","eget.massa.Suspendisse@arcuVivamus.co.uk","LVV16DVT4GQ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Darius","Sykes","student","parturient@Namligula.edu","TWU85RAG1UC");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Galvin","Fernandez","student","amet@blanditat.co.uk","OYS59WTF1YE");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Orson","Zimmerman","student","amet.consectetuer@Nulla.com","XDC38VAX2TX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Chadwick","Holmes","student","Proin@nisimagnased.net","LBR74TKM1QY");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Brielle","Rowland","student","facilisis@lorem.com","VTG08FWR8EX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Christine","Cain","student","Nunc@fringillaporttitorvulputate.org","UQD26HWO5SF");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Bruno","Francis","student","Lorem@urna.co.uk","SFC39RPJ7RI");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("MacKensie","Mueller","student","montes.nascetur@nequetellus.org","PWQ89VZC5UF");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Colorado","Mcclain","student","amet.risus@velit.com","PWP80OHZ5JX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Quemby","Knapp","student","sem.Nulla@necimperdiet.edu","JET83PTD2KP");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Stuart","Tate","student","Donec@eratsemperrutrum.com","WIZ69GJU5XE");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Gage","Reese","student","elit.sed@accumsanconvallisante.net","FNQ19NAO5IG");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Nathan","Poole","student","Donec.egestas.Aliquam@Craseutellus.com","WDW77NKH3UB");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Aquila","Page","student","Integer@ut.net","YPG18BFZ5CQ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Cleo","Kaufman","student","bibendum@Nunclectus.edu","WQY58NRY8IX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Kylynn","Burns","student","vestibulum.massa@libero.ca","EIY27MCE4LX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Audra","Campbell","student","dui.Cum.sociis@Curabitur.com","OJO63CXQ3HL");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Garrett","Atkins","student","nec.orci.Donec@velitAliquam.edu","DYS44RMH1EI");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Nathaniel","Robinson","student","Nulla@aliquet.com","ZJN62DIK8LS");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("MacKenzie","Parrish","student","mauris@neque.edu","AYZ19VPB8TO");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Nolan","Potts","student","pellentesque.Sed.dictum@semper.ca","YUP36THO4ME");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Gannon","Trujillo","student","dictum.cursus@libero.net","PAR94AUO7QY");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Kiayada","Orr","student","pellentesque.tellus.sem@erat.org","GTD82LOF0RZ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Summer","Salinas","student","feugiat.metus@euturpisNulla.ca","STO95YPR3EB");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Kato","Mccall","student","erat@magnaSedeu.net","HUG10QMJ3TL");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Hedley","Aguilar","student","tellus.Phasellus.elit@Duisdignissimtempor.net","MIN76LFY1EZ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Giacomo","Valencia","student","Donec@neque.ca","WFQ99FSW0VR");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Armando","Jefferson","student","fringilla.Donec.feugiat@urnaUt.com","NZG28PCC4WR");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Craig","Hanson","student","Aenean.gravida@dignissimmagnaa.net","XLD81PJX2CG");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Raya","Britt","student","auctor.velit@CuraePhasellus.ca","LDY50VQE0ER");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Teagan","Casey","student","egestas@fringillaporttitor.ca","AOB44OOR8LW");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Montana","Lara","student","elit.Nulla.facilisi@nostraper.co.uk","ELP79JRT1EX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Caesar","Spears","student","natoque.penatibus@tempusmauris.ca","LCK72MSF3PW");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Rose","Guy","student","neque.venenatis.lacus@tinciduntduiaugue.com","UJQ92DYM1TA");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Nichole","Nichols","student","nunc.Quisque.ornare@Aeneaneget.com","DQF71XFA2DF");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Kennedy","Higgins","student","In.ornare@lectusrutrum.ca","ILP79XTS1XV");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Anika","Mann","student","luctus.ipsum.leo@orciluctuset.net","LNR00FNM3JH");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Ivory","Garcia","student","ante.dictum.cursus@arcuSedet.co.uk","HVW98MQQ9CV");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Liberty","Reed","student","Cras.sed@vulputate.ca","TVJ36JHP5NV");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("April","Cochran","student","sed.hendrerit.a@ultricesiaculisodio.com","HLM41EWK3ZR");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Blossom","Mcmahon","student","auctor@musAeneaneget.edu","AVC47KHJ0MO");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Raymond","Cohen","student","parturient.montes.nascetur@Maurisquis.co.uk","XAE39RSD4UI");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Lunea","Phillips","student","ut.aliquam.iaculis@vel.com","OWW82PYN5AK");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Buffy","Donovan","student","magna.tellus@estvitae.ca","QBC88YPI3PS");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Ryder","Black","student","dapibus.gravida.Aliquam@nulla.com","GUM54BXM8DI");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Nolan","Jennings","student","tortor.at@vehicula.org","FHH27HKT9US");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Lacy","Jordan","student","id@mi.com","MAV12PQR7SX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Holmes","Bowen","student","faucibus.id@Nullatincidunt.net","PCQ50AMW4UB");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Lesley","Harrell","student","accumsan.neque@temporarcuVestibulum.org","ZPK24ZUE2BK");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Cameron","Wiggins","student","quis.turpis@Vestibulumanteipsum.co.uk","BGJ31ZSV3GT");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Inga","Preston","student","quam.Pellentesque@inconsequatenim.org","JVT72SPB9FT");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Barrett","Webster","student","quam.elementum.at@acmattissemper.org","GHN71KAC2MD");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Alexis","Perry","student","purus.accumsan.interdum@Curabitur.org","KJC31QRL7YD");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Justin","Moss","student","Sed@nuncQuisque.org","UUB57MJR7GF");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Gretchen","Carey","student","arcu.Curabitur@Curabitur.ca","WTY09OSC1BE");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Eaton","Harding","student","egestas@ultricessit.edu","NVX14RQD8FZ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Mercedes","Osborn","student","Fusce.mi@urna.com","XIE10EMJ4BK");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Shafira","Bean","student","semper@eratSednunc.org","YRT07ZEV3JI");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Lydia","Moody","student","odio.vel.est@convallis.com","OPE42JBQ0EJ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Chadwick","Brock","student","est@non.co.uk","AFI95QVL5LY");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Chelsea","Pena","student","laoreet@interdumligula.co.uk","SFX47FTD7VZ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Harding","Ochoa","student","et@Cumsociisnatoque.com","YOS70ZKB4SO");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Geoffrey","Garrison","student","eros@aultriciesadipiscing.org","TMP81PEV3UQ");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Armando","Mejia","student","nec.luctus.felis@laciniamattisInteger.co.uk","MTC36CTE2XX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Lane","Mccall","student","nibh.sit@volutpatornarefacilisis.net","CQL64PDH5NX");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Noelani","Rice","student","montes.nascetur.ridiculus@auctorvelitAliquam.net","HYN78QAN8VC");
-INSERT INTO users (first_name,last_name,account_type,email,passwd) VALUES ("Yoko","Medina","student","dui.lectus.rutrum@nullaIntincidunt.net","HJQ39BYA1BK");
+INSERT INTO users (email, account_type) VALUES ('first_name.last_name
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (1, first_namelast_name
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (1,first_name,last_name
+)i;
+INSERT INTO users (email, account_type) VALUES ('William.Mcgee
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (2, WilliamMcgee
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (2,William,Mcgee
+)i;
+INSERT INTO users (email, account_type) VALUES ('Colleen.Olson
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (3, ColleenOlson
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (3,Colleen,Olson
+)i;
+INSERT INTO users (email, account_type) VALUES ('Shelley.Brennan
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (4, ShelleyBrennan
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (4,Shelley,Brennan
+)i;
+INSERT INTO users (email, account_type) VALUES ('Zelenia.Camacho
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (5, ZeleniaCamacho
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (5,Zelenia,Camacho
+)i;
+INSERT INTO users (email, account_type) VALUES ('Nero.Hall
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (6, NeroHall
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (6,Nero,Hall
+)i;
+INSERT INTO users (email, account_type) VALUES ('India.Thomas
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (7, IndiaThomas
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (7,India,Thomas
+)i;
+INSERT INTO users (email, account_type) VALUES ('Courtney.Wood
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (8, CourtneyWood
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (8,Courtney,Wood
+)i;
+INSERT INTO users (email, account_type) VALUES ('Fulton.Holden
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (9, FultonHolden
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (9,Fulton,Holden
+)i;
+INSERT INTO users (email, account_type) VALUES ('Leila.Conner
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (10, LeilaConner
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (10,Leila,Conner
+)i;
+INSERT INTO users (email, account_type) VALUES ('Teegan.Dale
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (11, TeeganDale
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (11,Teegan,Dale
+)i;
+INSERT INTO users (email, account_type) VALUES ('Kylee.Case
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (12, KyleeCase
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (12,Kylee,Case
+)i;
+INSERT INTO users (email, account_type) VALUES ('Raphael.Greer
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (13, RaphaelGreer
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (13,Raphael,Greer
+)i;
+INSERT INTO users (email, account_type) VALUES ('Edan.Haynes
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (14, EdanHaynes
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (14,Edan,Haynes
+)i;
+INSERT INTO users (email, account_type) VALUES ('Aurora.Watkins
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (15, AuroraWatkins
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (15,Aurora,Watkins
+)i;
+INSERT INTO users (email, account_type) VALUES ('Keefe.Olson
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (16, KeefeOlson
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (16,Keefe,Olson
+)i;
+INSERT INTO users (email, account_type) VALUES ('Andrew.Salazar
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (17, AndrewSalazar
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (17,Andrew,Salazar
+)i;
+INSERT INTO users (email, account_type) VALUES ('Gail.Cohen
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (18, GailCohen
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (18,Gail,Cohen
+)i;
+INSERT INTO users (email, account_type) VALUES ('Ignatius.Norton
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (19, IgnatiusNorton
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (19,Ignatius,Norton
+)i;
+INSERT INTO users (email, account_type) VALUES ('Damon.Rowland
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (20, DamonRowland
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (20,Damon,Rowland
+)i;
+INSERT INTO users (email, account_type) VALUES ('Nash.Crane
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (21, NashCrane
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (21,Nash,Crane
+)i;
+INSERT INTO users (email, account_type) VALUES ('Caldwell.Herring
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (22, CaldwellHerring
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (22,Caldwell,Herring
+)i;
+INSERT INTO users (email, account_type) VALUES ('Zahir.Russell
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (23, ZahirRussell
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (23,Zahir,Russell
+)i;
+INSERT INTO users (email, account_type) VALUES ('Wallace.Bird
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (24, WallaceBird
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (24,Wallace,Bird
+)i;
+INSERT INTO users (email, account_type) VALUES ('Sybill.Mccray
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (25, SybillMccray
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (25,Sybill,Mccray
+)i;
+INSERT INTO users (email, account_type) VALUES ('Nissim.Fletcher
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (26, NissimFletcher
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (26,Nissim,Fletcher
+)i;
+INSERT INTO users (email, account_type) VALUES ('Hilary.Cole
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (27, HilaryCole
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (27,Hilary,Cole
+)i;
+INSERT INTO users (email, account_type) VALUES ('Carly.Bryan
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (28, CarlyBryan
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (28,Carly,Bryan
+)i;
+INSERT INTO users (email, account_type) VALUES ('Alvin.Ross
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (29, AlvinRoss
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (29,Alvin,Ross
+)i;
+INSERT INTO users (email, account_type) VALUES ('Duncan.Santana
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (30, DuncanSantana
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (30,Duncan,Santana
+)i;
+INSERT INTO users (email, account_type) VALUES ('Britanney.Noble
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (31, BritanneyNoble
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (31,Britanney,Noble
+)i;
+INSERT INTO users (email, account_type) VALUES ('Fritz.Andrews
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (32, FritzAndrews
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (32,Fritz,Andrews
+)i;
+INSERT INTO users (email, account_type) VALUES ('Mannix.Wynn
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (33, MannixWynn
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (33,Mannix,Wynn
+)i;
+INSERT INTO users (email, account_type) VALUES ('Brandon.Ewing
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (34, BrandonEwing
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (34,Brandon,Ewing
+)i;
+INSERT INTO users (email, account_type) VALUES ('Iola.Barr
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (35, IolaBarr
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (35,Iola,Barr
+)i;
+INSERT INTO users (email, account_type) VALUES ('Halee.Gibson
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (36, HaleeGibson
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (36,Halee,Gibson
+)i;
+INSERT INTO users (email, account_type) VALUES ('Melinda.Yates
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (37, MelindaYates
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (37,Melinda,Yates
+)i;
+INSERT INTO users (email, account_type) VALUES ('Driscoll.Curry
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (38, DriscollCurry
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (38,Driscoll,Curry
+)i;
+INSERT INTO users (email, account_type) VALUES ('Isaac.Todd
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (39, IsaacTodd
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (39,Isaac,Todd
+)i;
+INSERT INTO users (email, account_type) VALUES ('Sonia.Sanford
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (40, SoniaSanford
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (40,Sonia,Sanford
+)i;
+INSERT INTO users (email, account_type) VALUES ('Grace.Pruitt
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (41, GracePruitt
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (41,Grace,Pruitt
+)i;
+INSERT INTO users (email, account_type) VALUES ('Aaron.Young
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (42, AaronYoung
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (42,Aaron,Young
+)i;
+INSERT INTO users (email, account_type) VALUES ('Neve.Mcgee
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (43, NeveMcgee
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (43,Neve,Mcgee
+)i;
+INSERT INTO users (email, account_type) VALUES ('Montana.Potter
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (44, MontanaPotter
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (44,Montana,Potter
+)i;
+INSERT INTO users (email, account_type) VALUES ('Janna.Landry
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (45, JannaLandry
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (45,Janna,Landry
+)i;
+INSERT INTO users (email, account_type) VALUES ('Whilemina.Charles
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (46, WhileminaCharles
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (46,Whilemina,Charles
+)i;
+INSERT INTO users (email, account_type) VALUES ('Kirestin.Erickson
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (47, KirestinErickson
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (47,Kirestin,Erickson
+)i;
+INSERT INTO users (email, account_type) VALUES ('Yen.Edwards
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (48, YenEdwards
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (48,Yen,Edwards
+)i;
+INSERT INTO users (email, account_type) VALUES ('Chelsea.Hampton
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (49, ChelseaHampton
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (49,Chelsea,Hampton
+)i;
+INSERT INTO users (email, account_type) VALUES ('Olivia.Adams
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (50, OliviaAdams
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (50,Olivia,Adams
+)i;
+INSERT INTO users (email, account_type) VALUES ('Mikayla.Robbins
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (51, MikaylaRobbins
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (51,Mikayla,Robbins
+)i;
+INSERT INTO users (email, account_type) VALUES ('Hoyt.Whitaker
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (52, HoytWhitaker
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (52,Hoyt,Whitaker
+)i;
+INSERT INTO users (email, account_type) VALUES ('Plato.Pate
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (53, PlatoPate
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (53,Plato,Pate
+)i;
+INSERT INTO users (email, account_type) VALUES ('Wanda.Rasmussen
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (54, WandaRasmussen
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (54,Wanda,Rasmussen
+)i;
+INSERT INTO users (email, account_type) VALUES ('Abraham.Hogan
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (55, AbrahamHogan
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (55,Abraham,Hogan
+)i;
+INSERT INTO users (email, account_type) VALUES ('Zephr.Lancaster
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (56, ZephrLancaster
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (56,Zephr,Lancaster
+)i;
+INSERT INTO users (email, account_type) VALUES ('Alexandra.Ryan
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (57, AlexandraRyan
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (57,Alexandra,Ryan
+)i;
+INSERT INTO users (email, account_type) VALUES ('Conan.Mckinney
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (58, ConanMckinney
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (58,Conan,Mckinney
+)i;
+INSERT INTO users (email, account_type) VALUES ('Adrienne.Boone
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (59, AdrienneBoone
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (59,Adrienne,Boone
+)i;
+INSERT INTO users (email, account_type) VALUES ('Dennis.Rivas
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (60, DennisRivas
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (60,Dennis,Rivas
+)i;
+INSERT INTO users (email, account_type) VALUES ('Jamalia.Merrill
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (61, JamaliaMerrill
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (61,Jamalia,Merrill
+)i;
+INSERT INTO users (email, account_type) VALUES ('Courtney.Mcintosh
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (62, CourtneyMcintosh
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (62,Courtney,Mcintosh
+)i;
+INSERT INTO users (email, account_type) VALUES ('Daquan.Finley
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (63, DaquanFinley
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (63,Daquan,Finley
+)i;
+INSERT INTO users (email, account_type) VALUES ('Skyler.Simon
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (64, SkylerSimon
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (64,Skyler,Simon
+)i;
+INSERT INTO users (email, account_type) VALUES ('Bryar.Anderson
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (65, BryarAnderson
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (65,Bryar,Anderson
+)i;
+INSERT INTO users (email, account_type) VALUES ('Rosalyn.Cleveland
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (66, RosalynCleveland
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (66,Rosalyn,Cleveland
+)i;
+INSERT INTO users (email, account_type) VALUES ('Jade.Howard
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (67, JadeHoward
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (67,Jade,Howard
+)i;
+INSERT INTO users (email, account_type) VALUES ('Lareina.Savage
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (68, LareinaSavage
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (68,Lareina,Savage
+)i;
+INSERT INTO users (email, account_type) VALUES ('Reuben.Wiley
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (69, ReubenWiley
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (69,Reuben,Wiley
+)i;
+INSERT INTO users (email, account_type) VALUES ('Samantha.Atkins
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (70, SamanthaAtkins
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (70,Samantha,Atkins
+)i;
+INSERT INTO users (email, account_type) VALUES ('Ishmael.Rowe
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (71, IshmaelRowe
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (71,Ishmael,Rowe
+)i;
+INSERT INTO users (email, account_type) VALUES ('Bryar.Baker
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (72, BryarBaker
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (72,Bryar,Baker
+)i;
+INSERT INTO users (email, account_type) VALUES ('Oliver.Kelley
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (73, OliverKelley
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (73,Oliver,Kelley
+)i;
+INSERT INTO users (email, account_type) VALUES ('Karleigh.Montoya
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (74, KarleighMontoya
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (74,Karleigh,Montoya
+)i;
+INSERT INTO users (email, account_type) VALUES ('Courtney.Carpenter
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (75, CourtneyCarpenter
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (75,Courtney,Carpenter
+)i;
+INSERT INTO users (email, account_type) VALUES ('Kalia.Haney
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (76, KaliaHaney
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (76,Kalia,Haney
+)i;
+INSERT INTO users (email, account_type) VALUES ('Charity.Maynard
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (77, CharityMaynard
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (77,Charity,Maynard
+)i;
+INSERT INTO users (email, account_type) VALUES ('Neville.Jacobs
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (78, NevilleJacobs
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (78,Neville,Jacobs
+)i;
+INSERT INTO users (email, account_type) VALUES ('Xenos.Hurley
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (79, XenosHurley
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (79,Xenos,Hurley
+)i;
+INSERT INTO users (email, account_type) VALUES ('Kato.Battle
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (80, KatoBattle
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (80,Kato,Battle
+)i;
+INSERT INTO users (email, account_type) VALUES ('Amity.Rosario
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (81, AmityRosario
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (81,Amity,Rosario
+)i;
+INSERT INTO users (email, account_type) VALUES ('Debra.Wilkins
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (82, DebraWilkins
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (82,Debra,Wilkins
+)i;
+INSERT INTO users (email, account_type) VALUES ('Mira.Andrews
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (83, MiraAndrews
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (83,Mira,Andrews
+)i;
+INSERT INTO users (email, account_type) VALUES ('Skyler.Moses
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (84, SkylerMoses
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (84,Skyler,Moses
+)i;
+INSERT INTO users (email, account_type) VALUES ('Yvonne.Ayala
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (85, YvonneAyala
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (85,Yvonne,Ayala
+)i;
+INSERT INTO users (email, account_type) VALUES ('Gray.Rowland
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (86, GrayRowland
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (86,Gray,Rowland
+)i;
+INSERT INTO users (email, account_type) VALUES ('Aspen.Wynn
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (87, AspenWynn
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (87,Aspen,Wynn
+)i;
+INSERT INTO users (email, account_type) VALUES ('Kato.Evans
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (88, KatoEvans
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (88,Kato,Evans
+)i;
+INSERT INTO users (email, account_type) VALUES ('Drew.Wilson
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (89, DrewWilson
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (89,Drew,Wilson
+)i;
+INSERT INTO users (email, account_type) VALUES ('Miriam.Leach
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (90, MiriamLeach
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (90,Miriam,Leach
+)i;
+INSERT INTO users (email, account_type) VALUES ('Ahmed.Vaughn
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (91, AhmedVaughn
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (91,Ahmed,Vaughn
+)i;
+INSERT INTO users (email, account_type) VALUES ('Yardley.Tate
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (92, YardleyTate
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (92,Yardley,Tate
+)i;
+INSERT INTO users (email, account_type) VALUES ('Guinevere.Campbell
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (93, GuinevereCampbell
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (93,Guinevere,Campbell
+)i;
+INSERT INTO users (email, account_type) VALUES ('Thomas.Schneider
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (94, ThomasSchneider
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (94,Thomas,Schneider
+)i;
+INSERT INTO users (email, account_type) VALUES ('Cedric.Maynard
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (95, CedricMaynard
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (95,Cedric,Maynard
+)i;
+INSERT INTO users (email, account_type) VALUES ('Wynne.Suarez
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (96, WynneSuarez
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (96,Wynne,Suarez
+)i;
+INSERT INTO users (email, account_type) VALUES ('Wylie.Sutton
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (97, WylieSutton
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (97,Wylie,Sutton
+)i;
+INSERT INTO users (email, account_type) VALUES ('Dominic.Leon
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (98, DominicLeon
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (98,Dominic,Leon
+)i;
+INSERT INTO users (email, account_type) VALUES ('Armando.Cantu
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (99, ArmandoCantu
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (99,Armando,Cantu
+)i;
+INSERT INTO users (email, account_type) VALUES ('Clayton.Frederick
+@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (100, ClaytonFrederick
+pass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (100,Clayton,Frederick
+)i;
+INSERT INTO users (email, account_type) VALUES ('Warren.Fletcher@live.longwood.edu', 'student');
+INSERT INTO user_credentials (user_id, passwd) VALUES (101, WarrenFletcherpass);
+INSERT INTO user_info (user_id, first_name, last_name) VALUES (101,Warren,Fletcher)i;
