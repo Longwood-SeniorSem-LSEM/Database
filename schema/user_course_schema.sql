@@ -22,13 +22,13 @@ CREATE TABLE user_credentials (
 	CONSTRAINT passwdLength CHECK ( LENGTH(passwd) > 8 )	
 );
 
-CREATE TABLE user_information (
+CREATE TABLE user_info (
 	user_id          INTEGER        REFERENCES users(id),
 	first_name       TEXT           NOT NULL,
 	last_name        TEXT           NOT NULL
 );
 
-CREATE TABLE instructor_information (
+CREATE TABLE instructor_info (
 	user_id          INTEGER        REFERENCES users(id),
 	office           TEXT,
 	phone_number     INTEGER,
@@ -44,17 +44,17 @@ CREATE TABLE classes (
 	course           INTEGER        NOT NULL,
 	section          INTEGER        NOT NULL,
 	title            TEXT           NOT NULL,
-	instructor       INTEGER        REFERENCES users(id),
 
 	CONSTRAINT check_id      CHECK (id BETWEEN 9999 AND 100000),
 	CONSTRAINT check_section CHECK (section > 0),
 	CONSTRAINT check_cn      CHECK (course_number BETWEEN 0 AND 999)
 );
 
-CREATE TABLE class_information (
+CREATE TABLE class_info (
 	class_id         INTEGER        REFERENCES classes(id),
 	semester         VARCHAR(6)     NOT NULL,
 	year             INTEGER        NOT NULL,
+	instructor       INTEGER        REFERENCES users(id),
 	class_key        VARCHAR(12)    UNIQUE NOT NULL,
 
 	CONSTRAINT check_year    CHECK (year BETWEEN 2013 AND 10000)
