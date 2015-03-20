@@ -4,30 +4,21 @@ DROP TABLE IF EXISTS class_info;
 DROP TABLE IF EXISTS classes;
 
 DROP TABLE IF EXISTS instructor_info;
-DROP TABLE IF EXISTS user_credentials;
-DROP TABLE IF EXISTS user_info;
+
 DROP TABLE IF EXISTS users CASCADE;
 
 
 -- User Tables --
 
 CREATE TABLE users ( 		
-	id               INTEGER        PRIMARY KEY AUTO_INCREMENT,
+	user_id          INTEGER        PRIMARY KEY AUTO_INCREMENT,
 	email            VARCHAR(255)   UNIQUE NOT NULL,
 	account_type     VARCHAR(11),
-	CONSTRAINT idMaxSize    CHECK (id < 100000000)
-);
-
-CREATE TABLE user_credentials (
-	user_id          INTEGER        REFERENCES users(id),
 	passwd           VARCHAR(255)   NOT NULL,
-	CONSTRAINT passwdLength CHECK ( LENGTH(passwd) > 8 )	
-);
-
-CREATE TABLE user_info (
-	user_id          INTEGER        REFERENCES users(id),
 	first_name       TEXT           NOT NULL,
-	last_name        TEXT           NOT NULL
+	last_name        TEXT           NOT NULL,
+	CONSTRAINT passwdLength CHECK   (LENGTH(passwd) > 8),	
+	CONSTRAINT idMaxSize    CHECK   (id < 100000000)
 );
 
 CREATE TABLE instructor_info (
@@ -41,7 +32,7 @@ CREATE TABLE instructor_info (
 -- Class Tables --
 
 CREATE TABLE classes (
-	id               INTEGER        PRIMARY KEY AUTO_INCREMENT, 
+	class_id         INTEGER        PRIMARY KEY AUTO_INCREMENT, 
 	subject          VARCHAR(5)     NOT NULL,
 	course           INTEGER        NOT NULL,
 	section          INTEGER        NOT NULL,
@@ -53,7 +44,7 @@ CREATE TABLE classes (
 );
 
 CREATE TABLE class_info (
-	class_id         INTEGER        REFERENCES classes(id),
+	class_id         INTEGER        REFERENCES classes(class_id),
 	semester         VARCHAR(6)     NOT NULL,
 	year             INTEGER        NOT NULL,
 	instructor       INTEGER        REFERENCES users(id),
@@ -62,9 +53,9 @@ CREATE TABLE class_info (
 	CONSTRAINT check_year    CHECK (year BETWEEN 2013 AND 10000)
 );
 
-ALTER TABLE classes AUTO_INCREMENT = 50000;
+ALTER TABLE classes AUTO_INCREMENT = 10000;
 
 CREATE TABLE rosters (
-	class_id         INTEGER        REFERENCES classes(id),
-	user_id          INTEGER        REFERENCES users(id)
+	class_id         INTEGER        REFERENCES classes(class_id),
+	user_id          INTEGER        REFERENCES users(user_id)
 );
