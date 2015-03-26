@@ -35,4 +35,12 @@ Database Tables:
     user_id : INTEGER (Foreign Key, References users(id)) - Represent's a user's id
     class_id : INTEGER (Foreign Key, References classes(id)) - Represents's an instructor's id
     
+  assignment_storage: 
+    assignment_data : 
+    assignment_id : INTEGER(5) (NOT NULL, AUTO_INCREMENT, PRIMARY KEY) - represent's the assignment's id
+    user_id : INTEGER (REFERENCES users(user_id)) - represent's a user's id
+    class_id : INTEGER (REFERENCES classes(class_id)) - represent's a class's identification number
+    assignment_des : TEXT - describes the text assignment created by the user
+    assignment_name : TEXT (NOT NULL) - name of the text assignment created by the user
+    
 
