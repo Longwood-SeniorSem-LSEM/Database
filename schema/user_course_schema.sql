@@ -66,5 +66,7 @@ CREATE TABLE assignment_storage (
 	assignment_data LONGBLOB,
 	assignment_id	INTEGER(5)	NOT NULL	AUTO_INCREMENT	PRIMARY KEY,
 	user_id		INTEGER		REFERENCES users(user_id),
-	class_id	INTEGER		REFERENCES classes(class_id)
+	class_id	INTEGER		REFERENCES classes(class_id),
+	assignment_des	TEXT,
+	assignment_name	TEXT		NOT NULL
 );
