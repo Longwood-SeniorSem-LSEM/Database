@@ -36,7 +36,7 @@ Database Tables:
     class_id : INTEGER (Foreign Key, References classes(id)) - Represents's an instructor's id
     
   assignment_storage: 
-    assignment_data : 
+    assignment_data : VARCHAR(255) (NOT NULL) - The absolute file path for the assignment
     assignment_id : INTEGER(5) (NOT NULL, AUTO_INCREMENT, PRIMARY KEY) - represent's the assignment's id
     user_id : INTEGER (REFERENCES users(user_id)) - represent's a user's id
     class_id : INTEGER (REFERENCES classes(class_id)) - represent's a class's identification number
