@@ -63,7 +63,7 @@ CREATE TABLE rosters (
 -- Assignment Submission and Assignment Information Tables --
 
 CREATE TABLE assignment_storage (
-	assignment_data LONGBLOB,
+	assignment_data VARCHAR(255)	NOT NULL,
 	assignment_id	INTEGER(5)	NOT NULL	AUTO_INCREMENT	PRIMARY KEY,
 	user_id		INTEGER		REFERENCES users(user_id),
 	class_id	INTEGER		REFERENCES classes(class_id),
