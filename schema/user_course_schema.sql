@@ -68,5 +68,7 @@ CREATE TABLE assignment_storage (
 	user_id		INTEGER		REFERENCES users(user_id),
 	class_id	INTEGER		REFERENCES classes(class_id),
 	assignment_des	TEXT,
-	assignment_name	TEXT		NOT NULL
+	assignment_name	TEXT		NOT NULL,
+	assign_date	DATE,
+	due_date	DATETIME
 );
