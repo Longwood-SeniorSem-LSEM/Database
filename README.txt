@@ -42,7 +42,7 @@ Database Tables:
     class_id : INTEGER (REFERENCES classes(class_id)) - represent's a class's identification number
     assignment_des : TEXT - describes the text assignment created by the user
     assignment_name : TEXT (NOT NULL) - name of the text assignment created by the user
-    assign_date : DATE - Date that the assignment will become visible to students within the class
-    due_date : DATETIME - Date and time that the assignment will be due
+    assign_date : DATE (NOT NULL) - Date that the assignment will become visible to students within the class
+    due_date : DATETIME (NOT NULL) - Date and time that the assignment will be due
     
 
