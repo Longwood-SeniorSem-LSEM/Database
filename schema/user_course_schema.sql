@@ -70,5 +70,6 @@ CREATE TABLE assignment_storage (
 	assignment_des	TEXT,
 	assignment_name	TEXT		NOT NULL,
 	assign_date	DATE		NOT NULL,
-	due_date	DATETIME	NOT NULL
+	due_date	DATETIME	NOT NULL,
+	file_share	BOOLEAN		DEFAULT(0)
 );
