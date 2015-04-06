@@ -44,5 +44,6 @@ Database Tables:
     assignment_name : TEXT (NOT NULL) - name of the text assignment created by the user
     assign_date : DATE (NOT NULL) - Date that the assignment will become visible to students within the class
     due_date : DATETIME (NOT NULL) - Date and time that the assignment will be due
+    file_share : BOOLEAN (DEFAULT(0)) - Signals whether or not the assignment will be shared with other professors
     
 
